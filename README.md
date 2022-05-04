@@ -14,7 +14,7 @@ Example Gem: https://explorer.tonnft.tools/nft/EQD5LNIPAH9DytTkkiw6cwNBfiOIJ4647
 # Search
 3. Исправляем const seed = hexToBytes (тут ключ который вы нашли на getgems).
 4. Запускаем первый скрипт командой node index.js. Получаем список кошельков которым подходит данный приватный ключ.
-<img width="1636" alt="2" src="https://user-images.githubusercontent.com/10156691/166644518-249ea3fb-44be-48ea-9642-6c958d5d5bfd.png">
+![1](https://user-images.githubusercontent.com/10156691/166644593-1f1bcb63-781d-4095-aafb-c867125d97a7.jpg)
 
 5. Переходим по ссылкам и ищем кошелек, который имеет "входящие" транзакции.
 6. Как нашли транзакцию вводим ее сюда https://explorer.tonnft.tools/nft/(тут адрес).
