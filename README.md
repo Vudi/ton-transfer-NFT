@@ -22,12 +22,12 @@ Example Gem: https://explorer.tonnft.tools/nft/EQD5LNIPAH9DytTkkiw6cwNBfiOIJ4647
 ![IMAGE 2022-05-04 10:11:36](https://user-images.githubusercontent.com/10156691/166636695-af0c05f2-7196-4863-bafe-7683e7f29ff2.jpg)
 
 # Tranfer 
-8. Вам нужны версия кошелька, приватник с getgems, адрес нфт и адрес куда отправлять. И заменить их по аналогии:
-WalletClass - версия кошелька (из пункта 4).
-hexToBytes - приватник
-nftAddress - адрес NFT
-myAddress - адрес куда переместить NFT
-9. Запускаем скрипт командой node transfer.js
+8. Вам нужны версия кошелька, приватник с getgems, адрес нфт и адрес куда отправлять. И заменить их по аналогии:<br>
+WalletClass - версия кошелька (из пункта 4).<br>
+hexToBytes - приватник<br>
+nftAddress - адрес NFT<br>
+myAddress - адрес куда переместить NFT<br>
+9. Запускаем скрипт командой node transfer.js<br>
 Примечание: для трансферта на кошельке должно быть 0.05 TON для оплаты транзакции (газа).
 
 
