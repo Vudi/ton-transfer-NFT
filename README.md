@@ -1,4 +1,4 @@
-# Get-Gems
+# About ton-transfer-NFT
 
 This is the repo for discovering and grabbing NFTs dropped in a form with wallet's private keys on [ton](https://ton.org) blockchain.
 
