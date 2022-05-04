@@ -16,6 +16,11 @@ Example Gem: https://explorer.tonnft.tools/nft/EQD5LNIPAH9DytTkkiw6cwNBfiOIJ4647
   ```bash
   npm i --save
   ```
+3. Install tonweb 
+
+  ```bash
+  npm install tonweb
+  ```
 
 # Search
 
