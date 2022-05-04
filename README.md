@@ -14,12 +14,12 @@ Example Gem: https://explorer.tonnft.tools/nft/EQD5LNIPAH9DytTkkiw6cwNBfiOIJ4647
 # Search
 3. Исправляем const seed = hexToBytes (тут ключ который вы нашли на getgems).
 4. Запускаем первый скрипт командой node index.js. Получаем список кошельков которым подходит данный приватный ключ.
-![IMAGE 2022-05-04 10:09:27](https://user-images.githubusercontent.com/10156691/166636477-ab303118-b7d3-4667-9683-3f4f6426c0e1.jpg)
+<img width="1636" alt="2" src="https://user-images.githubusercontent.com/10156691/166644518-249ea3fb-44be-48ea-9642-6c958d5d5bfd.png">
 
 5. Переходим по ссылкам и ищем кошелек, который имеет "входящие" транзакции.
 6. Как нашли транзакцию вводим ее сюда https://explorer.tonnft.tools/nft/(тут адрес).
 7. Получаем изображение NFT.
-![IMAGE 2022-05-04 10:11:36](https://user-images.githubusercontent.com/10156691/166636695-af0c05f2-7196-4863-bafe-7683e7f29ff2.jpg)
+<img width="1636" alt="2 (1)" src="https://user-images.githubusercontent.com/10156691/166644511-374d0397-82df-4301-aae5-4f3cb9edfbd3.png">
 
 # Tranfer 
 8. Вам нужны версия кошелька, приватник с getgems, адрес нфт и адрес куда отправлять. И заменить их по аналогии:<br>
